@@ -1,0 +1,6 @@
+Before importing the system code using KIE workbensh, remember to add 
+Group: rest-all 
+to user: wbadmin
+
+Then, log-off and log-in.
+
